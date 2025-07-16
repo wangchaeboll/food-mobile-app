@@ -1,3 +1,47 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+    .flex-center{
+        @apply flex justify-center items-center;
+    }
+
+    .flex-start {
+        @apply flex items-start justify-center;
+    }
+
+    .flex-between {
+        @apply flex items-center justify-between;
+    }
+}
+
+@layer components {
+    .offer-card {
+        @apply w-full h-48 my-3 rounded-xl overflow-hidden shadow-lg flex items-center gap-5
+    }
+
+    .offer-card__info {
+        @apply flex-1 h-full flex flex-col justify-center items-start gap-4
+    }
+
+    .h1-bold {
+        @apply text-3xl font-quicksand-bold;
+    }
+
+    .small-bold {
+        @apply text-xs font-quicksand-bold;
+    }
+
+    .paragraph-bold {
+        @apply text-base font-quicksand-bold;
+    }
+
+    .cart-btn {
+        @apply flex items-center justify-center size-10 rounded-full bg-dark-100;
+    }
+
+    .cart-badge {
+        @apply absolute -top-2 -right-1 flex items-center justify-center size-5 bg-primary rounded-full;
+    }
+}
