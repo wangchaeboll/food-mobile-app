@@ -11,7 +11,6 @@ const SignUp = () => {
 
     const isFormValid = () => {
         return form.name.trim() && form.email.trim() && form.password.trim();
-
     }
     const onSubmit = async () => {
         if(!isFormValid()) {
@@ -26,7 +25,7 @@ const SignUp = () => {
                 password: form.password,
                 name: form.name,
             })
-            Alert.alert('Success', 'You have successfully signed in')
+            Alert.alert('Success', 'You have successfully signed up')
             router.replace("/")
         } catch (e) {
             Alert.alert('Error', 'Something went wrong (here)')
