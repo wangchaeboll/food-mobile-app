@@ -1,0 +1,1222 @@
+[
+  {
+    "$id": "all",
+    "name": "All"
+  },
+  {
+    "name": "Burgers",
+    "description": "Juicy grilled burgers",
+    "$id": "687887ca000204890bd0",
+    "$sequence": "25",
+    "$createdAt": "2025-07-17T05:19:06.221+00:00",
+    "$updatedAt": "2025-07-17T05:19:06.221+00:00",
+    "$permissions": [
+      "read(\"user:68784a5a001ef5315c6d\")",
+      "update(\"user:68784a5a001ef5315c6d\")",
+      "delete(\"user:68784a5a001ef5315c6d\")"
+    ],
+    "menu": [
+      {
+        "name": "Classic Cheeseburger",
+        "description": "Beef patty, cheese, lettuce, tomato",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/687887d200213f28f529/view?project=687721890022db72c634",
+        "rating": 4.5,
+        "calories": 550,
+        "protein": 25,
+        "price": 25.99,
+        "$id": "687887d800010aacd186",
+        "$sequence": "11",
+        "$createdAt": "2025-07-17T05:19:20.208+00:00",
+        "$updatedAt": "2025-07-17T05:19:20.208+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "687887d800128fb2e64b",
+            "$sequence": "48",
+            "$createdAt": "2025-07-17T05:19:20.498+00:00",
+            "$updatedAt": "2025-07-17T05:19:20.498+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887d800277e28e258",
+            "$sequence": "49",
+            "$createdAt": "2025-07-17T05:19:20.832+00:00",
+            "$updatedAt": "2025-07-17T05:19:20.832+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887d8003a24227702",
+            "$sequence": "50",
+            "$createdAt": "2025-07-17T05:19:21.128+00:00",
+            "$updatedAt": "2025-07-17T05:19:21.128+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887d9000d54174e11",
+            "$sequence": "51",
+            "$createdAt": "2025-07-17T05:19:21.419+00:00",
+            "$updatedAt": "2025-07-17T05:19:21.419+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887d9002230844f51",
+            "$sequence": "52",
+            "$createdAt": "2025-07-17T05:19:21.768+00:00",
+            "$updatedAt": "2025-07-17T05:19:21.768+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      },
+      {
+        "name": "BBQ Bacon Burger",
+        "description": "Smoky BBQ sauce, crispy bacon, cheddar",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/687887f10031ab225311/view?project=687721890022db72c634",
+        "rating": 4.8,
+        "calories": 650,
+        "protein": 29,
+        "price": 27.5,
+        "$id": "687887fa0000cb8906b3",
+        "$sequence": "14",
+        "$createdAt": "2025-07-17T05:19:54.214+00:00",
+        "$updatedAt": "2025-07-17T05:19:54.214+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "687887fa00148d1866d5",
+            "$sequence": "62",
+            "$createdAt": "2025-07-17T05:19:54.533+00:00",
+            "$updatedAt": "2025-07-17T05:19:54.533+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887fa00274f05798a",
+            "$sequence": "63",
+            "$createdAt": "2025-07-17T05:19:54.824+00:00",
+            "$updatedAt": "2025-07-17T05:19:54.824+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887fa003a0d488cad",
+            "$sequence": "64",
+            "$createdAt": "2025-07-17T05:19:55.124+00:00",
+            "$updatedAt": "2025-07-17T05:19:55.124+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887fb000f5b9b31be",
+            "$sequence": "65",
+            "$createdAt": "2025-07-17T05:19:55.443+00:00",
+            "$updatedAt": "2025-07-17T05:19:55.443+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887fb002108fe8724",
+            "$sequence": "66",
+            "$createdAt": "2025-07-17T05:19:55.728+00:00",
+            "$updatedAt": "2025-07-17T05:19:55.728+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      },
+      {
+        "name": "Double Patty Burger",
+        "description": "Two juicy beef patties and cheese",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/6878880d0009e3b0ee28/view?project=687721890022db72c634",
+        "rating": 4.9,
+        "calories": 720,
+        "protein": 35,
+        "price": 32.99,
+        "$id": "68788813002d6326ee85",
+        "$sequence": "17",
+        "$createdAt": "2025-07-17T05:20:19.924+00:00",
+        "$updatedAt": "2025-07-17T05:20:19.924+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "68788814000090bffff5",
+            "$sequence": "75",
+            "$createdAt": "2025-07-17T05:20:20.206+00:00",
+            "$updatedAt": "2025-07-17T05:20:20.206+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878881400124aa2840f",
+            "$sequence": "76",
+            "$createdAt": "2025-07-17T05:20:20.487+00:00",
+            "$updatedAt": "2025-07-17T05:20:20.487+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687888140024007ce299",
+            "$sequence": "77",
+            "$createdAt": "2025-07-17T05:20:20.773+00:00",
+            "$updatedAt": "2025-07-17T05:20:20.773+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687888140036c635a62c",
+            "$sequence": "78",
+            "$createdAt": "2025-07-17T05:20:21.068+00:00",
+            "$updatedAt": "2025-07-17T05:20:21.068+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687888150009f93f6d07",
+            "$sequence": "79",
+            "$createdAt": "2025-07-17T05:20:21.356+00:00",
+            "$updatedAt": "2025-07-17T05:20:21.356+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      }
+    ],
+    "$databaseId": "687727aa0006b7b6a5e5",
+    "$collectionId": "68786b530031e18e90cd"
+  },
+  {
+    "name": "Pizzas",
+    "description": "Oven-baked cheesy pizzas",
+    "$id": "687887ca0011a2121a89",
+    "$sequence": "26",
+    "$createdAt": "2025-07-17T05:19:06.469+00:00",
+    "$updatedAt": "2025-07-17T05:19:06.469+00:00",
+    "$permissions": [
+      "read(\"user:68784a5a001ef5315c6d\")",
+      "update(\"user:68784a5a001ef5315c6d\")",
+      "delete(\"user:68784a5a001ef5315c6d\")"
+    ],
+    "menu": [
+      {
+        "name": "Pepperoni Pizza",
+        "description": "Loaded with cheese and pepperoni slices",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/687887db000f60ba9d9e/view?project=687721890022db72c634",
+        "rating": 4.7,
+        "calories": 700,
+        "protein": 30,
+        "price": 30.99,
+        "$id": "687887e300254e6c772b",
+        "$sequence": "12",
+        "$createdAt": "2025-07-17T05:19:31.789+00:00",
+        "$updatedAt": "2025-07-17T05:19:31.789+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "687887e300380245f767",
+            "$sequence": "53",
+            "$createdAt": "2025-07-17T05:19:32.091+00:00",
+            "$updatedAt": "2025-07-17T05:19:32.091+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887e4000b32a7636e",
+            "$sequence": "54",
+            "$createdAt": "2025-07-17T05:19:32.370+00:00",
+            "$updatedAt": "2025-07-17T05:19:32.370+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887e4001e032fcd54",
+            "$sequence": "55",
+            "$createdAt": "2025-07-17T05:19:32.678+00:00",
+            "$updatedAt": "2025-07-17T05:19:32.678+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887e4003a2838b040",
+            "$sequence": "56",
+            "$createdAt": "2025-07-17T05:19:33.130+00:00",
+            "$updatedAt": "2025-07-17T05:19:33.130+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887e50014a153614e",
+            "$sequence": "57",
+            "$createdAt": "2025-07-17T05:19:33.527+00:00",
+            "$updatedAt": "2025-07-17T05:19:33.527+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      },
+      {
+        "name": "Classic Margherita Pizza",
+        "description": "Tomato, mozzarella, fresh basil",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/6878882c0006ab006450/view?project=687721890022db72c634",
+        "rating": 4.1,
+        "calories": 590,
+        "protein": 21,
+        "price": 26.99,
+        "$id": "6878882f0002afde0f8c",
+        "$sequence": "21",
+        "$createdAt": "2025-07-17T05:20:47.233+00:00",
+        "$updatedAt": "2025-07-17T05:20:47.233+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "6878882f0013287a435c",
+            "$sequence": "94",
+            "$createdAt": "2025-07-17T05:20:47.498+00:00",
+            "$updatedAt": "2025-07-17T05:20:47.498+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878882f0024f360fb74",
+            "$sequence": "95",
+            "$createdAt": "2025-07-17T05:20:47.783+00:00",
+            "$updatedAt": "2025-07-17T05:20:47.783+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878882f0037b761f0d3",
+            "$sequence": "96",
+            "$createdAt": "2025-07-17T05:20:48.083+00:00",
+            "$updatedAt": "2025-07-17T05:20:48.083+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788830000bf97bd39f",
+            "$sequence": "97",
+            "$createdAt": "2025-07-17T05:20:48.384+00:00",
+            "$updatedAt": "2025-07-17T05:20:48.384+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      }
+    ],
+    "$databaseId": "687727aa0006b7b6a5e5",
+    "$collectionId": "68786b530031e18e90cd"
+  },
+  {
+    "name": "Burritos",
+    "description": "Rolled Mexican delights",
+    "$id": "687887ca00224c544cce",
+    "$sequence": "27",
+    "$createdAt": "2025-07-17T05:19:06.739+00:00",
+    "$updatedAt": "2025-07-17T05:19:06.739+00:00",
+    "$permissions": [
+      "read(\"user:68784a5a001ef5315c6d\")",
+      "update(\"user:68784a5a001ef5315c6d\")",
+      "delete(\"user:68784a5a001ef5315c6d\")"
+    ],
+    "menu": [
+      {
+        "name": "Bean Burrito",
+        "description": "Stuffed with beans, rice, salsa",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/687887e80032b46d4227/view?project=687721890022db72c634",
+        "rating": 4.2,
+        "calories": 480,
+        "protein": 18,
+        "price": 20.99,
+        "$id": "687887ed002da88db6b7",
+        "$sequence": "13",
+        "$createdAt": "2025-07-17T05:19:41.928+00:00",
+        "$updatedAt": "2025-07-17T05:19:41.928+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "687887ee0003e369d121",
+            "$sequence": "58",
+            "$createdAt": "2025-07-17T05:19:42.257+00:00",
+            "$updatedAt": "2025-07-17T05:19:42.257+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887ee001df953a680",
+            "$sequence": "59",
+            "$createdAt": "2025-07-17T05:19:42.679+00:00",
+            "$updatedAt": "2025-07-17T05:19:42.679+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887ee0034d92a522f",
+            "$sequence": "60",
+            "$createdAt": "2025-07-17T05:19:43.045+00:00",
+            "$updatedAt": "2025-07-17T05:19:43.045+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687887ef000a2c70d190",
+            "$sequence": "61",
+            "$createdAt": "2025-07-17T05:19:43.356+00:00",
+            "$updatedAt": "2025-07-17T05:19:43.356+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      },
+      {
+        "name": "Paneer Burrito",
+        "description": "Paneer cubes, spicy masala, rice, beans",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/6878883700185ff6d252/view?project=687721890022db72c634",
+        "rating": 4.2,
+        "calories": 510,
+        "protein": 22,
+        "price": 24.99,
+        "$id": "6878883e0029085ce12b",
+        "$sequence": "23",
+        "$createdAt": "2025-07-17T05:21:02.852+00:00",
+        "$updatedAt": "2025-07-17T05:21:02.852+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "6878883e003bcb1c73e6",
+            "$sequence": "102",
+            "$createdAt": "2025-07-17T05:21:03.153+00:00",
+            "$updatedAt": "2025-07-17T05:21:03.153+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878883f000ef6259c02",
+            "$sequence": "103",
+            "$createdAt": "2025-07-17T05:21:03.433+00:00",
+            "$updatedAt": "2025-07-17T05:21:03.433+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878883f0020a6094f12",
+            "$sequence": "104",
+            "$createdAt": "2025-07-17T05:21:03.719+00:00",
+            "$updatedAt": "2025-07-17T05:21:03.719+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878883f003684abd847",
+            "$sequence": "105",
+            "$createdAt": "2025-07-17T05:21:04.065+00:00",
+            "$updatedAt": "2025-07-17T05:21:04.065+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      }
+    ],
+    "$databaseId": "687727aa0006b7b6a5e5",
+    "$collectionId": "68786b530031e18e90cd"
+  },
+  {
+    "name": "Sandwiches",
+    "description": "Stacked and stuffed sandwiches",
+    "$id": "687887ca003936a99319",
+    "$sequence": "28",
+    "$createdAt": "2025-07-17T05:19:07.153+00:00",
+    "$updatedAt": "2025-07-17T05:19:07.153+00:00",
+    "$permissions": [
+      "read(\"user:68784a5a001ef5315c6d\")",
+      "update(\"user:68784a5a001ef5315c6d\")",
+      "delete(\"user:68784a5a001ef5315c6d\")"
+    ],
+    "menu": [
+      {
+        "name": "Grilled Veggie Sandwich",
+        "description": "Roasted veggies, pesto, cheese",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/6878880300157450c52a/view?project=687721890022db72c634",
+        "rating": 4.1,
+        "calories": 420,
+        "protein": 19,
+        "price": 19.99,
+        "$id": "6878880a000c234550a5",
+        "$sequence": "16",
+        "$createdAt": "2025-07-17T05:20:10.412+00:00",
+        "$updatedAt": "2025-07-17T05:20:10.412+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "6878880a001fe275d8ba",
+            "$sequence": "71",
+            "$createdAt": "2025-07-17T05:20:10.703+00:00",
+            "$updatedAt": "2025-07-17T05:20:10.703+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878880a003192ccc4a2",
+            "$sequence": "72",
+            "$createdAt": "2025-07-17T05:20:10.990+00:00",
+            "$updatedAt": "2025-07-17T05:20:10.990+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878880b0006ed9612bc",
+            "$sequence": "73",
+            "$createdAt": "2025-07-17T05:20:11.308+00:00",
+            "$updatedAt": "2025-07-17T05:20:11.308+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878880b0018904d7927",
+            "$sequence": "74",
+            "$createdAt": "2025-07-17T05:20:11.591+00:00",
+            "$updatedAt": "2025-07-17T05:20:11.591+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      },
+      {
+        "name": "Spicy Chicken Sandwich",
+        "description": "Crispy chicken, spicy sauce, pickles",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/68788826000f090ca45e/view?project=687721890022db72c634",
+        "rating": 4.3,
+        "calories": 540,
+        "protein": 26,
+        "price": 24.99,
+        "$id": "68788828001aa4f73a98",
+        "$sequence": "20",
+        "$createdAt": "2025-07-17T05:20:40.616+00:00",
+        "$updatedAt": "2025-07-17T05:20:40.616+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "68788828002e5254e458",
+            "$sequence": "89",
+            "$createdAt": "2025-07-17T05:20:40.937+00:00",
+            "$updatedAt": "2025-07-17T05:20:40.937+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788829000296269921",
+            "$sequence": "90",
+            "$createdAt": "2025-07-17T05:20:41.235+00:00",
+            "$updatedAt": "2025-07-17T05:20:41.235+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788829001449ecda61",
+            "$sequence": "91",
+            "$createdAt": "2025-07-17T05:20:41.521+00:00",
+            "$updatedAt": "2025-07-17T05:20:41.521+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878882900291336c0b0",
+            "$sequence": "92",
+            "$createdAt": "2025-07-17T05:20:41.857+00:00",
+            "$updatedAt": "2025-07-17T05:20:41.857+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788829003bd44c9fa9",
+            "$sequence": "93",
+            "$createdAt": "2025-07-17T05:20:42.150+00:00",
+            "$updatedAt": "2025-07-17T05:20:42.150+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      },
+      {
+        "name": "Chicken Club Sandwich",
+        "description": "Grilled chicken, lettuce, cheese, tomato",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/687888400029fa197194/view?project=687721890022db72c634",
+        "rating": 4.5,
+        "calories": 610,
+        "protein": 31,
+        "price": 27.49,
+        "$id": "68788843000bfb4a3fd2",
+        "$sequence": "24",
+        "$createdAt": "2025-07-17T05:21:07.383+00:00",
+        "$updatedAt": "2025-07-17T05:21:07.383+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "687888430023d2242cb4",
+            "$sequence": "106",
+            "$createdAt": "2025-07-17T05:21:07.772+00:00",
+            "$updatedAt": "2025-07-17T05:21:07.772+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788843003576340a6c",
+            "$sequence": "107",
+            "$createdAt": "2025-07-17T05:21:08.051+00:00",
+            "$updatedAt": "2025-07-17T05:21:08.051+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788844000acdb4069b",
+            "$sequence": "108",
+            "$createdAt": "2025-07-17T05:21:08.368+00:00",
+            "$updatedAt": "2025-07-17T05:21:08.368+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788844001e9da13af8",
+            "$sequence": "109",
+            "$createdAt": "2025-07-17T05:21:08.688+00:00",
+            "$updatedAt": "2025-07-17T05:21:08.688+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      }
+    ],
+    "$databaseId": "687727aa0006b7b6a5e5",
+    "$collectionId": "68786b530031e18e90cd"
+  },
+  {
+    "name": "Wraps",
+    "description": "Rolled up wraps packed with flavor",
+    "$id": "687887cb000d642299be",
+    "$sequence": "29",
+    "$createdAt": "2025-07-17T05:19:07.406+00:00",
+    "$updatedAt": "2025-07-17T05:19:07.406+00:00",
+    "$permissions": [
+      "read(\"user:68784a5a001ef5315c6d\")",
+      "update(\"user:68784a5a001ef5315c6d\")",
+      "delete(\"user:68784a5a001ef5315c6d\")"
+    ],
+    "menu": [
+      {
+        "name": "Chicken Caesar Wrap",
+        "description": "Grilled chicken, lettuce, Caesar dressing",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/687887fc00251043dda3/view?project=687721890022db72c634",
+        "rating": 4.4,
+        "calories": 490,
+        "protein": 28,
+        "price": 21.5,
+        "$id": "68788800001059630386",
+        "$sequence": "15",
+        "$createdAt": "2025-07-17T05:20:00.455+00:00",
+        "$updatedAt": "2025-07-17T05:20:00.455+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "687888000020f7ccb08b",
+            "$sequence": "67",
+            "$createdAt": "2025-07-17T05:20:00.724+00:00",
+            "$updatedAt": "2025-07-17T05:20:00.724+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687888000036e9f81af2",
+            "$sequence": "68",
+            "$createdAt": "2025-07-17T05:20:01.070+00:00",
+            "$updatedAt": "2025-07-17T05:20:01.070+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788801000a1c0de4c5",
+            "$sequence": "69",
+            "$createdAt": "2025-07-17T05:20:01.360+00:00",
+            "$updatedAt": "2025-07-17T05:20:01.360+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788801001ee072f095",
+            "$sequence": "70",
+            "$createdAt": "2025-07-17T05:20:01.692+00:00",
+            "$updatedAt": "2025-07-17T05:20:01.692+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      },
+      {
+        "name": "Paneer Tikka Wrap",
+        "description": "Spicy paneer, mint chutney, veggies",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/68788815003392340741/view?project=687721890022db72c634",
+        "rating": 4.6,
+        "calories": 470,
+        "protein": 20,
+        "price": 23.99,
+        "$id": "6878881d00019dcc1d4b",
+        "$sequence": "18",
+        "$createdAt": "2025-07-17T05:20:29.215+00:00",
+        "$updatedAt": "2025-07-17T05:20:29.215+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "6878881d00135aaa775b",
+            "$sequence": "80",
+            "$createdAt": "2025-07-17T05:20:29.507+00:00",
+            "$updatedAt": "2025-07-17T05:20:29.507+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878881d002b4a147ead",
+            "$sequence": "81",
+            "$createdAt": "2025-07-17T05:20:29.885+00:00",
+            "$updatedAt": "2025-07-17T05:20:29.885+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878881e0002925144f0",
+            "$sequence": "82",
+            "$createdAt": "2025-07-17T05:20:30.235+00:00",
+            "$updatedAt": "2025-07-17T05:20:30.235+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878881e001678999ba4",
+            "$sequence": "83",
+            "$createdAt": "2025-07-17T05:20:30.704+00:00",
+            "$updatedAt": "2025-07-17T05:20:30.704+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878881e0034af2b922d",
+            "$sequence": "84",
+            "$createdAt": "2025-07-17T05:20:31.036+00:00",
+            "$updatedAt": "2025-07-17T05:20:31.036+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      }
+    ],
+    "$databaseId": "687727aa0006b7b6a5e5",
+    "$collectionId": "68786b530031e18e90cd"
+  },
+  {
+    "name": "Bowls",
+    "description": "Balanced rice and protein bowls",
+    "$id": "687887cb001d0cfb5b7e",
+    "$sequence": "30",
+    "$createdAt": "2025-07-17T05:19:07.661+00:00",
+    "$updatedAt": "2025-07-17T05:19:07.661+00:00",
+    "$permissions": [
+      "read(\"user:68784a5a001ef5315c6d\")",
+      "update(\"user:68784a5a001ef5315c6d\")",
+      "delete(\"user:68784a5a001ef5315c6d\")"
+    ],
+    "menu": [
+      {
+        "name": "Mexican Burrito Bowl",
+        "description": "Rice, beans, corn, guac, salsa",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/68788820001fbf3e36d3/view?project=687721890022db72c634",
+        "rating": 4.7,
+        "calories": 610,
+        "protein": 24,
+        "price": 26.49,
+        "$id": "68788824001992c760a2",
+        "$sequence": "19",
+        "$createdAt": "2025-07-17T05:20:36.600+00:00",
+        "$updatedAt": "2025-07-17T05:20:36.600+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "68788824002b3ec357f5",
+            "$sequence": "85",
+            "$createdAt": "2025-07-17T05:20:36.880+00:00",
+            "$updatedAt": "2025-07-17T05:20:36.880+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788824003ce3e7605c",
+            "$sequence": "86",
+            "$createdAt": "2025-07-17T05:20:37.170+00:00",
+            "$updatedAt": "2025-07-17T05:20:37.170+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878882500113e9fe10a",
+            "$sequence": "87",
+            "$createdAt": "2025-07-17T05:20:37.468+00:00",
+            "$updatedAt": "2025-07-17T05:20:37.468+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687888250023f853871d",
+            "$sequence": "88",
+            "$createdAt": "2025-07-17T05:20:37.769+00:00",
+            "$updatedAt": "2025-07-17T05:20:37.769+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      },
+      {
+        "name": "Protein Power Bowl",
+        "description": "Grilled chicken, quinoa, veggies",
+        "image_url": "https://fra.cloud.appwrite.io/v1/storage/buckets/687874f4000a1b01edeb/files/687888300038a271282f/view?project=687721890022db72c634",
+        "rating": 4.8,
+        "calories": 580,
+        "protein": 38,
+        "price": 29.99,
+        "$id": "68788833003ce0e2f6fa",
+        "$sequence": "22",
+        "$createdAt": "2025-07-17T05:20:52.253+00:00",
+        "$updatedAt": "2025-07-17T05:20:52.253+00:00",
+        "$permissions": [
+          "read(\"user:68784a5a001ef5315c6d\")",
+          "update(\"user:68784a5a001ef5315c6d\")",
+          "delete(\"user:68784a5a001ef5315c6d\")"
+        ],
+        "menuCustomization": [
+          {
+            "$id": "6878883400165c491dd1",
+            "$sequence": "98",
+            "$createdAt": "2025-07-17T05:20:52.576+00:00",
+            "$updatedAt": "2025-07-17T05:20:52.576+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "68788835000065b22d92",
+            "$sequence": "99",
+            "$createdAt": "2025-07-17T05:20:53.200+00:00",
+            "$updatedAt": "2025-07-17T05:20:53.200+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "6878883500122705acd8",
+            "$sequence": "100",
+            "$createdAt": "2025-07-17T05:20:53.489+00:00",
+            "$updatedAt": "2025-07-17T05:20:53.489+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          },
+          {
+            "$id": "687888350025f10f8765",
+            "$sequence": "101",
+            "$createdAt": "2025-07-17T05:20:53.803+00:00",
+            "$updatedAt": "2025-07-17T05:20:53.803+00:00",
+            "$permissions": [
+              "read(\"user:68784a5a001ef5315c6d\")",
+              "update(\"user:68784a5a001ef5315c6d\")",
+              "delete(\"user:68784a5a001ef5315c6d\")"
+            ],
+            "$databaseId": "687727aa0006b7b6a5e5",
+            "$collectionId": "68786ebd00156eae2312"
+          }
+        ],
+        "$databaseId": "687727aa0006b7b6a5e5",
+        "$collectionId": "68786c19001073dccbc6"
+      }
+    ],
+    "$databaseId": "687727aa0006b7b6a5e5",
+    "$collectionId": "68786b530031e18e90cd"
+  }
+]

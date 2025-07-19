@@ -76,4 +76,12 @@
     .menu-card {
         @apply relative py-9 px-3.5 pt-24 flex items-center justify-end bg-white shadow-md shadow-black/10 rounded-3xl;
     }
+
+    .filter {
+        @apply px-6 py-3 rounded-full mr-2 shadow-sm shadow-black/10;
+    }
+
+    .searchbar {
+        @apply relative flex flex-row items-center justify-center w-full bg-white shadow-md shadow-black/10 rounded-full  font-quicksand-medium text-dark-100 gap-5;
+    }
 }
